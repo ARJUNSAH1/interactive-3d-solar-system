@@ -91,3 +91,16 @@ interactive-3d-solar-system/
 ├── README.md
 ├── SolarSystem.cbp
 └── main.cpp
+## 📸 Screenshots
+
+### 🌌 Main Solar System
+
+![Main Solar System](screenshots/solar-system.png)
+
+### 🌍 Earth Selected
+
+![Earth Selected](screenshots/earth-selected.png)
+
+### 🪐 Saturn Selected
+
+![Saturn Selected](screenshots/saturn-selected.png)
